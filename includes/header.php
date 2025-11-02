@@ -1,5 +1,4 @@
 <?php 
-// Bu kısım index.php'den çağrıldığı için burada PHP kodu olmaz
 ?>
 <!DOCTYPE html>
 <html lang="tr">
