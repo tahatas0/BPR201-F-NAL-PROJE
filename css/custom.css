@@ -1,18 +1,15 @@
-/* Lacivert rengini custom primary olarak ayarlıyoruz */
 .bg-primary {
-    background-color: #191970 !important; /* Gerçek lacivert (Midnight Blue) */
+    background-color: #191970 !important; 
 }
 
-/* Navigasyon linklerini beyaz yapalım */
 .navbar-dark .navbar-nav .nav-link {
     color: white !important;
 }
 
-/* Hover rengini hafifletelim */
 .navbar-dark .navbar-nav .nav-link:hover {
     color: #a7a7d4 !important; 
 }
-/* Ürün kartlarında kullanılan buton rengi */
+
 .btn-primary {
     background-color: #191970;
     border-color: #191970;
